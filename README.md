@@ -123,7 +123,7 @@ dotnet run
 A API estará disponível em:
 
 ```
-https://localhost:xxxx
+https://localhost:7248
 ```
 
 O Scalar estará disponível em:
@@ -216,3 +216,6 @@ se dias >= 3:
 ## 👨‍💻 Autor
 
 Desenvolvido por Maria Fernanda Santos Mendes.
+
+---
+Feito para aprendizado 💡
